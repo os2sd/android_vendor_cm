@@ -153,7 +153,7 @@ PRODUCT_PACKAGES += \
     Apollo \
     CMFileManager \
     LockClock \
-    CMAccount \
+    CMUpdater \
     CMHome
 
 # CM Hardware Abstraction Framework
